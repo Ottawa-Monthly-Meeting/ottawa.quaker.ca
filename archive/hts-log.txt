@@ -1,0 +1,78 @@
+HTTrack3.49-2 launched on Sun, 26 Feb 2023 14:38:51 at https://ottawa.quaker.ca/
+(httrack https://ottawa.quaker.ca/ -w -O . -%v -s0 -c5 -%e0 )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:38:51	Warning: 	Cache: damaged cache, trying to repair
+14:38:51	Warning: 	Cache: 599164 bytes successfully recovered in 268 entries
+14:38:51	Warning: 	engine: warning: temporary file ./ottawa.quaker.ca/sites/default/files/AREO/Submit.html.tmp already exists
+14:38:51	Warning: 	engine: warning: temporary file ./ottawa.quaker.ca/newsletter/create-article-18.html.tmp already exists
+14:38:51	Warning: 	engine: warning: temporary file ./ottawa.quaker.ca/category/article-location/article-location.html.tmp already exists
+14:38:51	Warning: 	engine: warning: temporary file ./ottawa.quaker.ca/create-project-0.html.tmp already exists
+14:38:51	Warning: 	engine: warning: temporary file ./ottawa.quaker.ca/create-project.html.tmp already exists
+14:38:51	Warning: 	engine: warning: temporary file ./ottawa.quaker.ca/OMM-fundraiser.html.tmp already exists
+14:38:51	Warning: 	engine: warning: temporary file ./ottawa.quaker.ca/node/983.html.tmp already exists
+14:38:51	Warning: 	engine: warning: temporary file ./ottawa.quaker.ca/node/2.html.tmp already exists
+14:38:51	Warning: 	engine: warning: temporary file ./ottawa.quaker.ca/node/1051.html.tmp already exists
+14:38:51	Warning: 	engine: warning: temporary file ./ottawa.quaker.ca/newsletter/Find-Us.html.tmp already exists
+14:38:51	Warning: 	engine: warning: temporary file ./ottawa.quaker.ca/node/1404.html.tmp already exists
+14:38:51	Warning: 	engine: warning: temporary file ./ottawa.quaker.ca/Home.html.tmp already exists
+14:38:51	Warning: 	engine: warning: temporary file ./ottawa.quaker.ca/node/901.html.tmp already exists
+14:38:51	Warning: 	engine: warning: temporary file ./ottawa.quaker.ca/sites/default/files/css/css_RnGpwLq9JE40eUMeM6A0GqiLazUlZVtUWzJZ3RlbS_w.css.tmp already exists
+14:38:51	Warning: 	engine: warning: temporary file ./ottawa.quaker.ca/calendar-node-field-date.html.tmp already exists
+14:38:51	Warning: 	engine: warning: temporary file ./ottawa.quaker.ca/calendar-node-field-date/week.html.tmp already exists
+14:38:51	Warning: 	engine: warning: temporary file ./ottawa.quaker.ca/calendar-node-field-date/day.html.tmp already exists
+14:38:51	Warning: 	engine: warning: temporary file ./ottawa.quaker.ca/calendar-node-field-date/year.html.tmp already exists
+14:38:51	Warning: 	engine: warning: temporary file ./ottawa.quaker.ca/calendar-node-field-date/month/2023-01.html.tmp already exists
+14:38:51	Warning: 	engine: warning: temporary file ./ottawa.quaker.ca/calendar-node-field-date/month/2023-03.html.tmp already exists
+14:38:51	Warning: 	engine: warning: temporary file ./ottawa.quaker.ca/calendar-node-field-date/day/2023-02-05.html.tmp already exists
+14:38:51	Warning: 	engine: warning: temporary file ./ottawa.quaker.ca/create-calendar-event-525.html.tmp already exists
+14:38:51	Warning: 	engine: warning: temporary file ./ottawa.quaker.ca/calendar-node-field-date/day/2023-02-12.html.tmp already exists
+14:38:51	Warning: 	engine: warning: temporary file ./ottawa.quaker.ca/calendar-node-field-date/day/2023-02-19.html.tmp already exists
+14:38:51	Warning: 	engine: warning: temporary file ./ottawa.quaker.ca/calendar-node-field-date/day/2023-02-26.html.tmp already exists
+14:38:51	Warning: 	engine: warning: temporary file ./ottawa.quaker.ca/calendar-node-field-date/Find-Us.html.tmp already exists
+14:38:51	Warning: 	engine: warning: temporary file ./ottawa.quaker.ca/node/1435.html.tmp already exists
+14:38:51	Warning: 	engine: warning: temporary file ./ottawa.quaker.ca/create-resource-2.html.tmp already exists
+14:38:51	Warning: 	engine: warning: temporary file ./ottawa.quaker.ca/create-resource-1.html.tmp already exists
+14:38:51	Warning: 	engine: warning: temporary file ./ottawa.quaker.ca/create-resource-0.html.tmp already exists
+14:38:51	Warning: 	engine: warning: temporary file ./ottawa.quaker.ca/create-resource.html.tmp already exists
+14:38:51	Warning: 	engine: warning: temporary file ./ottawa.quaker.ca/node/1433.html.tmp already exists
+14:38:51	Warning: 	engine: warning: temporary file ./ottawa.quaker.ca/create-quaker-links.html.tmp already exists
+14:38:51	Warning: 	engine: warning: temporary file ./ottawa.quaker.ca/create-quaker-links-0.html.tmp already exists
+14:38:51	Warning: 	engine: warning: temporary file ./ottawa.quaker.ca/node/781.html.tmp already exists
+14:38:51	Warning: 	engine: warning: temporary file ./ottawa.quaker.ca/node/879.html.tmp already exists
+14:38:51	Warning: 	engine: warning: temporary file ./ottawa.quaker.ca/node/914.html.tmp already exists
+14:38:51	Warning: 	engine: warning: temporary file ./ottawa.quaker.ca/node/1428.html.tmp already exists
+14:38:51	Warning: 	engine: warning: temporary file ./ottawa.quaker.ca/node/1432.html.tmp already exists
+14:38:51	Warning: 	engine: warning: temporary file ./ottawa.quaker.ca/node/1431.html.tmp already exists
+14:38:51	Warning: 	engine: warning: temporary file ./ottawa.quaker.ca/node/1425.html.tmp already exists
+14:38:51	Warning: 	engine: warning: temporary file ./ottawa.quaker.ca/node/1286.html.tmp already exists
+14:38:51	Warning: 	engine: warning: temporary file ./ottawa.quaker.ca/newsletter/create-article-21.html.tmp already exists
+14:38:51	Warning: 	engine: warning: temporary file ./ottawa.quaker.ca/newsletter/create-article-56.html.tmp already exists
+14:38:51	Warning: 	engine: warning: temporary file ./ottawa.quaker.ca/node/4.html.tmp already exists
+14:38:51	Warning: 	engine: warning: temporary file ./ottawa.quaker.ca/node/3.html.tmp already exists
+14:38:51	Warning: 	engine: warning: temporary file ./ottawa.quaker.ca/node/851.html.tmp already exists
+14:38:51	Warning: 	engine: warning: temporary file ./ottawa.quaker.ca/node/852.html.tmp already exists
+14:38:51	Warning: 	engine: warning: temporary file ./ottawa.quaker.ca/node/853.html.tmp already exists
+14:38:51	Warning: 	engine: warning: temporary file ./ottawa.quaker.ca/node/854.html.tmp already exists
+14:38:51	Warning: 	engine: warning: temporary file ./ottawa.quaker.ca/node/857.html.tmp already exists
+14:38:51	Warning: 	engine: warning: temporary file ./ottawa.quaker.ca/node/855.html.tmp already exists
+14:38:51	Warning: 	engine: warning: temporary file ./ottawa.quaker.ca/node/858.html.tmp already exists
+14:38:51	Error: 	"Not Found" (404) at link https://ottawa.quaker.ca/sites/default/files/Committee%20Handbook%20-%202up_1.pdf (from https://ottawa.quaker.ca/ottawa.quaker.ca/committees)
+14:38:51	Error: 	"Not Found" (404) at link https://ottawa.quaker.ca/ottawa.quaker.ca/Find-Us (from https://ottawa.quaker.ca/ottawa.quaker.ca/committees)
+14:38:51	Warning: 	engine: warning: temporary file ./ottawa.quaker.ca/node/Find-Us.html.tmp already exists
+14:39:15	Error: 	"Not Found" (404) at link https://ottawa.quaker.ca/newsletter/Find-Us (from https://ottawa.quaker.ca/newsletter/create-article-19)
+14:40:42	Error: 	"Not Found" (404) at link https://ottawa.quaker.ca/node/Find-Us (from https://ottawa.quaker.ca/node/732)
+14:40:42	Warning: 	Retry after error -5 (Error attempting to solve status 206 (partial file)) at link https://ottawa.quaker.ca/sites/default/files/AREO/My_Video_0026.mp4 (from https://ottawa.quaker.ca/sites/default/files/AREO/Sounds.htm)
+14:40:42	Warning: 	Retry after error -5 (Error attempting to solve status 206 (partial file)) at link https://ottawa.quaker.ca/sites/default/files/AREO/HW_Angel_03.jpg (from https://ottawa.quaker.ca/sites/default/files/AREO/Images.htm)
+14:40:42	Warning: 	Retry after error -5 (Error attempting to solve status 206 (partial file)) at link https://ottawa.quaker.ca/sites/default/files/AREO/An_ode_to_street_trees.pdf (from https://ottawa.quaker.ca/sites/default/files/AREO/Prose_and_Poetry.htm)
+14:40:43	Error: 	"Not Found" (404) at link https://ottawa.quaker.ca/category/article-location/Find-Us (from https://ottawa.quaker.ca/category/article-location/article-location)
+14:45:09	Error: 	"Not Found" (404) at link https://ottawa.quaker.ca/taxonomy/term/Find-Us (from https://ottawa.quaker.ca/taxonomy/term/10)
+14:54:08	Error: 	"Not Found" (404) at link https://ottawa.quaker.ca/category/event-type/Find-Us (from https://ottawa.quaker.ca/category/event-type/event-type)
+15:56:12	Error: 	"Not Found" (404) at link https://ottawa.quaker.ca/calendar-node-field-date/week/2026-W53 (from https://ottawa.quaker.ca/calendar-node-field-date/week/2026-W52)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 hours 17 minutes 21 seconds : 4896 links scanned, 4885 files written (269989162 bytes overall), 4623 files updated [44212847 bytes received at 9526 bytes/sec], 165190772 bytes transferred using HTTP compression in 4606 files, ratio 17%, 1.0 requests per connection
+(8 errors, 59 warnings, 0 messages)
