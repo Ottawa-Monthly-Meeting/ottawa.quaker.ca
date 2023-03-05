@@ -2,11 +2,11 @@
 
 ## About Our History
 
-Ottawa Monthly Meeting was established about 40 years ago. 
+Ottawa Monthly Meeting was established about 40 years ago.
 
-## Weekly Meetings
+## _Weekly Meetings_
 
-We meet regularly for Meeting for Worship.
+We meet regularly for Meeting for Worship. On March 19th Meeting in person at the Meeting house will not be connected to the Zoom meeting.  THis is \[art of an experiment.
 
 ### Hybrid Meetings during COVID
 
@@ -21,4 +21,3 @@ We meet regularly for Meeting for Worship.
 #### Newsletter & Mailinglist
 
 ### Young Adult Friends
-
