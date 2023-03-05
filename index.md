@@ -21,3 +21,5 @@ We meet regularly for Meeting for Worship. On March 19th Meeting in person at th
 #### Newsletter & Mailinglist
 
 ### Young Adult Friends
+
+[Contact us](/ottawa.quaker.ca/contact.html)
