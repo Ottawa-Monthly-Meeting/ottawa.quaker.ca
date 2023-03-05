@@ -6,7 +6,7 @@ Ottawa Monthly Meeting was established about 40 years ago.
 
 ## _Weekly Meetings_
 
-We meet regularly for Meeting for Worship. On March 19th Meeting in person at the Meeting house will not be connected to the Zoom meeting.  THis is \[art of an experiment.
+We meet regularly for Meeting for Worship. On March 19th Meeting in person at the Meeting house will not be connected to the Zoom meeting.  This is part of an experiment.
 
 ### Hybrid Meetings during COVID
 
